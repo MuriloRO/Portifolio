@@ -2,6 +2,16 @@
 
 Rápida descrição do objetivo de fazer esse projeto
 
+### Technologies
+* R 
+* Python
+* D3
+* PostGres, MySql
+* Pandas, jupyter
+* HTML
+* JavaScript
+* etc. 
+
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **Titulo do meu projeto**
@@ -10,7 +20,7 @@ Rápida descrição do objetivo de fazer esse projeto
 | :fire: Desafio     | https://url-do-desafio.com.br
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![](https://www.google.com/search?q=data+science&tbm=isch&ved=2ahUKEwi8zNymqc77AhXNN7kGHf7HCmIQ2-cCegQIABAA&oq=data+s&gs_lcp=CgNpbWcQARgAMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDoHCAAQsQMQQzoECAAQQzoICAAQgAQQsQM6BAgAEB5QpQZYxRtglSJoAnAAeACAAWaIAc8GkgEDNy4ymAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=tlKDY7yZFs3v5OUP_o-rkAY&bih=875&biw=888&rlz=1C1FCXM_pt-PTBR983BR983#imgrc=v8X30mO8k_W5XM#vitrinedev)
 
 ## Detalhes do projeto
 
